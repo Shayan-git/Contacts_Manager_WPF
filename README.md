@@ -13,9 +13,9 @@ A simple desktop app for managing personal contacts, built with **WPF** and **.N
 
 ## Screenshot
 
-![Calculator screenshot1](Screenshots/Screenshot1.png)
-![Calculator screenshot2](Screenshots/Screenshot2.png)
-![Calculator screenshot3](Screenshots/Screenshot3.png)
+![Contacts Manager screenshot1](Screenshots/Screenshot1.png)
+![Contacts Manager screenshot2](Screenshots/Screenshot2.png)
+![Contacts Manager screenshot3](Screenshots/Screenshot3.png)
 
 ## Requirements
 
