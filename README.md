@@ -8,7 +8,7 @@ A simple desktop app for managing personal contacts, built with **WPF** and **.N
 - ✏️ **Update contact** — edit any existing contact
 - 🗑️ **Delete contact** — delete any existing contact
 - 🔍 **Search contacts** — live filtering across name
-- 💾 **Persistent storage** — saves to a local Database
+- 💾 **Persistent storage** — saves to a local database
 - 🎨 **Responsive UI** — Simple, responsive layout
 
 ## Screenshot
